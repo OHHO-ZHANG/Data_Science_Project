@@ -6,7 +6,7 @@ This study applies data science to analyze employee attrition. After removing va
 * **HR_Attrition Data.csv** – **Training/Master Dataset**. Contains detailed information on 1470 employees, covering demographic indicators, job roles, satisfaction ratings, and attrition status. This data forms the basis for building the predictive model.
 * **HR_New_data.csv** – **New dataset/test set**. Used to validate model performance or simulate real-world scenarios for assessing the risk of new employee turnover.
 
-# What the Notebooks does
+## What the Notebooks does
 ## 1.Data Cleaning & Preprocessing
 ### I. Handling Missing Data
 We identified variables with over 80% missing values (e.g., Attrition Date) and removed them to ensure data quality.
